@@ -1,0 +1,4 @@
+unit,unit_annotation_score
+100,"Counter({'4': 0.871732861176411, '3': 0.0643350376764374, '5': 0.04247373604220785, '2': 0.02145836510494388, '1': 0.0, 'revolt': 0.0, 'strike': 0.0, 'protest': 0.0, 'insurrection': 0.0, 'justice': 0.0, 'anger': 0.0, 'violence': 0.0, 'desperation': 0.0})"
+200,"Counter({'protest': 0.8330878325624579, 'strike': 0.5914380280525698, 'revolt': 0.22242359220790214, 'insurrection': 0.01996267302230438, '1': 0.0, '2': 0.0, '3': 0.0, '4': 0.0, '5': 0.0, 'justice': 0.0, 'anger': 0.0, 'violence': 0.0, 'desperation': 0.0})"
+300,"Counter({'anger': 0.9238887863270225, 'desperation': 0.6525980775482988, 'justice': 0.3852815743044383, 'violence': 0.27216597443915996, '1': 0.0, '2': 0.0, '3': 0.0, '4': 0.0, '5': 0.0, 'revolt': 0.0, 'strike': 0.0, 'protest': 0.0, 'insurrection': 0.0})"
