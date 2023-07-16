@@ -1,0 +1,71 @@
+unitId,submittedAt,judgmentId,startedAt,Task_type,Question_number,Answer,workerId,link,age,gender,connection_level,connection_type
+101,20-6-2023 18:38:16,208,20-6-2023 18:38:16,x,,Protest,8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-1976,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+101,22-6-2023 13:23:42,211,22-6-2023 13:23:42,x,,"Opstand, Protest, Rechtvaardigheid, Verzet, Staking",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-1979,25-34 jaar oud,Man,4,Persoonlijke interesse
+101,23-6-2023 10:43:50,213,23-6-2023 10:43:50,x,,"Onrust, Protest, Rechtvaardigheid, Oproer, Staking",13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-1981,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+101,26-6-2023 16:28:54,219,26-6-2023 16:28:54,x,,Gelijkheid,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-1987,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+101,27-6-2023 16:32:11,225,27-6-2023 16:32:11,x,,Revolutie,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-1993,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+101,28-6-2023 3:20:30,231,28-6-2023 3:20:30,x,,"Protest, Rechtvaardigheid, Staking",31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-1999,18-24 jaar oud,Man,3,Persoonlijke interesse
+101,28-6-2023 19:24:07,233,28-6-2023 19:24:07,x,,"Gelijkheid, Protest, Rechtvaardigheid, Verzet, Staking",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2001,18-24 jaar oud,Man,1,Persoonlijke interesse
+102,20-6-2023 18:38:16,243,20-6-2023 18:38:16,x,,Protest,8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2011,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+102,22-6-2023 13:23:42,246,22-6-2023 13:23:42,x,,"Opstandigheid, Opstand, Protest, Ongehoorzaamheid, Verzet",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2014,25-34 jaar oud,Man,4,Persoonlijke interesse
+102,23-6-2023 10:43:50,248,23-6-2023 10:43:50,x,,"Onrust, Vandalisme, Verwoesting, Oproer",13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2016,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+102,26-6-2023 16:28:54,254,26-6-2023 16:28:54,x,,Verwoesting,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2022,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+102,27-6-2023 16:32:11,260,27-6-2023 16:32:11,x,,Onrust,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2028,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+102,28-6-2023 3:20:30,266,28-6-2023 3:20:30,x,,"Opstand, Onrust, Verwoesting, Oproer, Ongeluk/niet met opzet",31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2034,18-24 jaar oud,Man,3,Persoonlijke interesse
+102,28-6-2023 19:24:07,268,28-6-2023 19:24:07,x,,"Opstand, Onrust, Vandalisme, Verwoesting, Oproer",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2036,18-24 jaar oud,Man,1,Persoonlijke interesse
+103,20-6-2023 18:38:16,278,20-6-2023 18:38:16,x,,"Protest, Opstand, Verwoesting, Verzet, Staking",8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2046,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+103,22-6-2023 13:23:42,281,22-6-2023 13:23:42,x,,"Opstand, Onrust, Protest, Opstand, Oproer",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2049,25-34 jaar oud,Man,4,Persoonlijke interesse
+103,23-6-2023 10:43:50,283,23-6-2023 10:43:50,x,,Onrust,13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2051,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+103,26-6-2023 16:28:54,289,26-6-2023 16:28:54,x,,Protest,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2057,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+103,27-6-2023 16:32:11,295,27-6-2023 16:32:11,x,,Vandalisme,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2063,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+103,28-6-2023 3:20:30,301,28-6-2023 3:20:30,x,,"Verwoesting, Oproer, ongeloof bij de mensen",31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2069,18-24 jaar oud,Man,3,Persoonlijke interesse
+103,28-6-2023 19:24:07,303,28-6-2023 19:24:07,x,,"Opstand, Onrust, Vandalisme, Verwoesting, Oproer",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2071,18-24 jaar oud,Man,1,Persoonlijke interesse
+104,20-6-2023 18:38:16,313,20-6-2023 18:38:16,x,,"Onrust, Opstand, Verwoesting, Verzet, Oproer",8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2081,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+104,22-6-2023 13:23:42,316,22-6-2023 13:23:42,x,,"Revolutie, Vrijheidsstrijd, Opstand, Onrust, Verzet",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2084,25-34 jaar oud,Man,4,Persoonlijke interesse
+104,23-6-2023 10:43:50,318,23-6-2023 10:43:50,x,,"Revolutie, Opstand, Onrust, Verzet, Oproer",13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2086,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+104,26-6-2023 16:28:54,324,26-6-2023 16:28:54,x,,Opstand,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2092,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+104,27-6-2023 16:32:11,330,27-6-2023 16:32:11,x,,Emancipatie,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2098,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+104,28-6-2023 3:20:30,336,28-6-2023 3:20:30,x,,(Te late) damage control,31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2104,18-24 jaar oud,Man,3,Persoonlijke interesse
+104,28-6-2023 19:24:07,338,28-6-2023 19:24:07,x,,"Onrust, Verwoesting, Verzet, Oproer, Staking",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2106,18-24 jaar oud,Man,1,Persoonlijke interesse
+105,20-6-2023 18:38:16,348,20-6-2023 18:38:16,x,,"Opstand, Onrust, Protest, Opstand, Verwoesting",8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2116,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+105,22-6-2023 13:23:42,351,22-6-2023 13:23:42,x,,"Gelijkheid, Bevrijding, Rechtvaardigheid, Onafhankelijkheid, Verzet",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2119,25-34 jaar oud,Man,4,Persoonlijke interesse
+105,23-6-2023 10:43:50,353,23-6-2023 10:43:50,x,,"Emancipatie, Vrijheidsstrijd, Opstand, Gelijkheid, Rechtvaardigheid",13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2121,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+105,26-6-2023 16:28:54,359,26-6-2023 16:28:54,x,,Gelijkheid,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2127,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+105,27-6-2023 16:32:11,365,27-6-2023 16:32:11,x,,Gelijkheid,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2133,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+105,28-6-2023 3:20:30,371,28-6-2023 3:20:30,x,,"Vrijheidsstrijd, Protest, Verzet",31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2139,18-24 jaar oud,Man,3,Persoonlijke interesse
+105,28-6-2023 19:24:07,373,28-6-2023 19:24:07,x,,"Emancipatie, Revolutie, Vrijheidsstrijd, Gelijkheid, Verzet",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2141,18-24 jaar oud,Man,1,Persoonlijke interesse
+106,20-6-2023 18:38:16,383,20-6-2023 18:38:16,x,,"Onrust, Protest, Opstand, Verwoesting, Verzet",8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2151,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+106,22-6-2023 13:23:42,386,22-6-2023 13:23:42,x,,"Revolutie, Opstand, Onrust, Vandalisme, Verwoesting",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2154,25-34 jaar oud,Man,4,Persoonlijke interesse
+106,23-6-2023 10:43:50,388,23-6-2023 10:43:50,x,,"Revolutie, Vrijheidsstrijd, Onrust, Verwoesting, Oproer",13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2156,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+106,26-6-2023 16:28:54,394,26-6-2023 16:28:54,x,,Protest,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2162,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+106,27-6-2023 16:32:11,400,27-6-2023 16:32:11,x,,Vandalisme,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2168,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+106,28-6-2023 3:20:30,406,28-6-2023 3:20:30,x,,"Verwoesting, Oproer, Oneerlijkheid",31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2174,18-24 jaar oud,Man,3,Persoonlijke interesse
+106,28-6-2023 19:24:07,408,28-6-2023 19:24:07,x,,"Onrust, Verwoesting, Verzet, Oproer, Destructie",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2176,18-24 jaar oud,Man,1,Persoonlijke interesse
+107,20-6-2023 18:38:16,418,20-6-2023 18:38:16,x,,"Bevrijding, Opstand, Verwoesting, Verzet, Staking",8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2186,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+107,22-6-2023 13:23:42,421,22-6-2023 13:23:42,x,,"Opstand, Onrust, Protest, Opstand, Verzet",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2189,25-34 jaar oud,Man,4,Persoonlijke interesse
+107,23-6-2023 10:43:50,423,23-6-2023 10:43:50,x,,"Revolutie, Opstand, Onrust, Vandalisme, Oproer",13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2191,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+107,26-6-2023 16:28:54,429,26-6-2023 16:28:54,x,,Opstand,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2197,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+107,27-6-2023 16:32:11,435,27-6-2023 16:32:11,x,,Bevrijding,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2203,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+107,28-6-2023 3:20:30,441,28-6-2023 3:20:30,x,,"Vrijheidsstrijd, Vandalisme",31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2209,18-24 jaar oud,Man,3,Persoonlijke interesse
+107,28-6-2023 19:24:07,443,28-6-2023 19:24:07,x,,"Opstand, Onrust, Protest, Rechtvaardigheid, Verwoesting",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2211,18-24 jaar oud,Man,1,Persoonlijke interesse
+108,20-6-2023 18:38:16,453,20-6-2023 18:38:16,x,,"Onrust, Protest, Opstand, Verwoesting, Oproer",8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2221,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+108,22-6-2023 13:23:42,456,22-6-2023 13:23:42,x,,"Opstand, Onrust, Verwoesting, Oproer",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2224,25-34 jaar oud,Man,4,Persoonlijke interesse
+108,23-6-2023 10:43:50,458,23-6-2023 10:43:50,x,,"Opstand, Protest, Vandalisme, Oproer",13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2226,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+108,26-6-2023 16:28:54,464,26-6-2023 16:28:54,x,,Opstand,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2232,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+108,27-6-2023 16:32:11,470,27-6-2023 16:32:11,x,,Oproer,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2238,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+108,28-6-2023 3:20:30,476,28-6-2023 3:20:30,x,,"Vandalisme, Verwoesting, Oproer",31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2244,18-24 jaar oud,Man,3,Persoonlijke interesse
+108,28-6-2023 19:24:07,478,28-6-2023 19:24:07,x,,"Revolutie, Vrijheidsstrijd, Opstand, Verwoesting, Verzet",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2246,18-24 jaar oud,Man,1,Persoonlijke interesse
+109,20-6-2023 18:38:16,488,20-6-2023 18:38:16,x,,"Onrust, Opstand, Verwoesting, Verzet, Staking",8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2256,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+109,22-6-2023 13:23:42,491,22-6-2023 13:23:42,x,,"Opstand, Onrust, Vandalisme, Opstand, Verwoesting",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2259,25-34 jaar oud,Man,4,Persoonlijke interesse
+109,23-6-2023 10:43:50,493,23-6-2023 10:43:50,x,,"Opstand, Onrust, Protest, Vandalisme, Verwoesting",13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2261,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+109,26-6-2023 16:28:54,499,26-6-2023 16:28:54,x,,Opstand,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2267,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+109,27-6-2023 16:32:11,505,27-6-2023 16:32:11,x,,Protest,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2273,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+109,28-6-2023 3:20:30,511,28-6-2023 3:20:30,x,,"Vandalisme, Verwoesting, Oproer",31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2279,18-24 jaar oud,Man,3,Persoonlijke interesse
+109,28-6-2023 19:24:07,513,28-6-2023 19:24:07,x,,"Onrust, Vandalisme, Verwoesting, Oproer, Boosheid",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2281,18-24 jaar oud,Man,1,Persoonlijke interesse
+110,20-6-2023 18:38:16,523,20-6-2023 18:38:16,x,,"Onrust, Opstand, Verzet, Oproer, Staking",8,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2291,25-34 jaar oud,Vrouw,1,Persoonlijke interesse
+110,22-6-2023 13:23:42,526,22-6-2023 13:23:42,x,,"Opstand, Onrust, Vandalisme, Opstand, Oproer",11,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2294,25-34 jaar oud,Man,4,Persoonlijke interesse
+110,23-6-2023 10:43:50,528,23-6-2023 10:43:50,x,,"Vrijheidsstrijd, Onrust, Protest, Vandalisme",13,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2296,18-24 jaar oud,Vrouw,2,Persoonlijke interesse
+110,26-6-2023 16:28:54,534,26-6-2023 16:28:54,x,,Vandalisme,19,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2302,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+110,27-6-2023 16:32:11,540,27-6-2023 16:32:11,x,,Verwoesting,25,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2308,55-64 jaar oud,Vrouw,3,Persoonlijke interesse
+110,28-6-2023 3:20:30,546,28-6-2023 3:20:30,x,,"Vandalisme, Verwoesting, Oproer",31,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2314,18-24 jaar oud,Man,3,Persoonlijke interesse
+110,28-6-2023 19:24:07,548,28-6-2023 19:24:07,x,,"Onrust, Vandalisme, Verzet, Oproer, Wanhoop",33,https://www.nationaalarchief.cw/collectie/exposities/30-mei-2316,18-24 jaar oud,Man,1,Persoonlijke interesse
