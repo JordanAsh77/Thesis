@@ -1,0 +1,351 @@
+judgment,output.Answer,output.Answer.count,output.Answer.unique,unit,worker,started,submitted,duration,job
+201,"OrderedCounter({'opstand': 1, 'protest': 1, 'rechtvaardigheid': 1, 'staking': 1})",4,4,101,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+202,"OrderedCounter({'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verzet': 1})",5,5,101,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+203,"OrderedCounter({'gelijkheid': 1, 'protest': 1})",2,2,101,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+204,"OrderedCounter({'vrijheidsstrijd': 1, 'onrust': 1, 'rechtvaardigheid': 1, 'onafhankelijkheid': 1, 'verzet': 1})",5,5,101,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+205,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1, 'rechtvaardigheid': 1})",5,5,101,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+206,"OrderedCounter({'onrust': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'staking': 1})",5,5,101,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+207,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'rechtvaardigheid': 1})",3,3,101,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+208,OrderedCounter({'protest': 1}),1,1,101,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+209,"OrderedCounter({'emancipatie': 1, 'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'verwoesting': 1})",5,5,101,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+210,"OrderedCounter({'emancipatie': 1, 'opstand': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verzet': 1})",5,5,101,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+211,"OrderedCounter({'opstand': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verzet': 1, 'staking': 1})",5,5,101,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+212,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'opstand': 1, 'protest': 1, 'verzet': 1})",5,5,101,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+213,"OrderedCounter({'onrust': 1, 'protest': 1, 'rechtvaardigheid': 1, 'oproer': 1, 'staking': 1})",5,5,101,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+214,"OrderedCounter({'protest': 1, 'rechtvaardigheid': 1, 'staking': 1})",3,3,101,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+215,"OrderedCounter({'protest': 1, 'verzet': 1, 'oproer': 1, 'staking': 1})",4,4,101,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+216,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'onrust': 1, 'oproer': 1, 'staking': 1})",5,5,101,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+217,"OrderedCounter({'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1})",3,3,101,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+218,"OrderedCounter({'vrijheidsstrijd': 1, 'gelijkheid': 1, 'protest': 1, 'bevrijding': 1})",4,4,101,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+219,OrderedCounter({'gelijkheid': 1}),1,1,101,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+220,"OrderedCounter({'emancipatie': 1, 'gelijkheid': 1, 'rechtvaardigheid': 1, 'onafhankelijkheid': 1, 'verzet': 1})",5,5,101,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+221,OrderedCounter({'protest': 1}),1,1,101,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+222,"OrderedCounter({'vrijheidsstrijd': 1, 'onrust': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verzet': 1})",5,5,101,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+223,OrderedCounter({'protest': 1}),1,1,101,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+224,"OrderedCounter({'vrijheidsstrijd': 1, 'opstand': 1, 'onrust': 1, 'protest': 1, 'onafhankelijkheid': 1})",5,5,101,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+225,OrderedCounter({'revolutie': 1}),1,1,101,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+226,"OrderedCounter({'opstand': 1, 'onrust': 1, 'gelijkheid': 1, 'staking': 1})",4,4,101,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+227,OrderedCounter({'protest': 1}),1,1,101,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+228,"OrderedCounter({'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'staking': 1})",4,4,101,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+229,"OrderedCounter({'opstand': 1, 'onrust': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1})",5,5,101,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+230,OrderedCounter({'rechtvaardigheid': 1}),1,1,101,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+231,"OrderedCounter({'protest': 1, 'rechtvaardigheid': 1, 'staking': 1})",3,3,101,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+232,OrderedCounter({'protest': 1}),1,1,101,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+233,"OrderedCounter({'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verzet': 1, 'staking': 1})",5,5,101,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+234,"OrderedCounter({'revolutie': 1, 'verzet': 1, 'oproer': 1, 'staking': 1})",4,4,101,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+235,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'onrust': 1, 'verwoesting': 1, 'onafhankelijkheid': 1})",5,5,101,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
+236,"OrderedCounter({'onrust': 1, 'anarchie': 1})",2,2,102,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+237,"OrderedCounter({'onrust': 1, 'omverwerping': 1, 'uitbraak': 1, 'verzet': 1})",4,4,102,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+238,"OrderedCounter({'opstandigheid': 1, 'anarchie': 1, 'muiterij': 1})",3,3,102,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+239,"OrderedCounter({'vrijheidsstrijd': 1, 'gelijkheid': 1, 'dissidentie': 1, 'opkomen': 1, 'onafhankelijkheid': 1})",5,5,102,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+240,"OrderedCounter({'protest': 1, 'opstand': 1, 'dissidentie': 1, 'verzet': 1, 'staking': 1})",5,5,102,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+241,"OrderedCounter({'opstandigheid': 1, 'opstand': 1, 'anarchie': 1})",3,3,102,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+242,"OrderedCounter({'vrijheidsstrijd': 1, 'protest': 1, 'anarchie': 1, 'uitbraak': 1})",4,4,102,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+243,OrderedCounter({'protest': 1}),1,1,102,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+244,"OrderedCounter({'emancipatie': 1, 'opstand': 1, 'gelijkheid': 1, 'omverwerping': 1, 'verwoesting': 1})",5,5,102,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+245,"OrderedCounter({'onrust': 1, 'ongehoorzaamheid': 1, 'verzet': 1})",3,3,102,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+246,"OrderedCounter({'opstandigheid': 1, 'opstand': 1, 'protest': 1, 'ongehoorzaamheid': 1, 'verzet': 1})",5,5,102,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+247,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1})",5,5,102,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+248,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",4,4,102,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+249,"OrderedCounter({'onrust': 1, 'protest': 1, 'vandalisme': 1, 'oproer': 1})",4,4,102,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+250,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",4,4,102,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+251,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'verwoesting': 1, 'oproer': 1})",4,4,102,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+252,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",4,4,102,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+253,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'oproer': 1})",3,3,102,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+254,OrderedCounter({'verwoesting': 1}),1,1,102,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+255,"OrderedCounter({'opstand': 1, 'gelijkheid': 1, 'vandalisme': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",5,5,102,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+256,OrderedCounter({'vandalisme': 1}),1,1,102,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+257,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'oproer': 1})",5,5,102,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+258,OrderedCounter({'opstand': 1}),1,1,102,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+259,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1})",5,5,102,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+260,OrderedCounter({'onrust': 1}),1,1,102,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+261,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,102,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+262,OrderedCounter({'verwoesting': 1}),1,1,102,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+263,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",5,5,102,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+264,"OrderedCounter({'opstand': 1, 'protest': 1})",2,2,102,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+265,OrderedCounter({'opstand': 1}),1,1,102,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+266,"OrderedCounter({'opstand': 1, 'onrust': 1, 'verwoesting': 1, 'oproer': 1, 'ongeluk/niet met opzet': 1})",5,5,102,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+267,"OrderedCounter({'gelijkheid': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",3,3,102,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+268,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,102,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+269,"OrderedCounter({'onrust': 1, 'verwoesting': 1, 'oproer': 1})",3,3,102,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+270,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'verwoesting': 1, 'onafhankelijkheid': 1})",5,5,102,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
+271,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",3,3,103,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+272,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,103,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+273,"OrderedCounter({'protest': 1, 'bevrijding': 1, 'vandalisme': 1})",3,3,103,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+274,"OrderedCounter({'vrijheidsstrijd': 1, 'opstand': 1, 'onrust': 1, 'protest': 1, 'oproer': 1})",5,5,103,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+275,"OrderedCounter({'opstand': 2, 'revolutie': 1, 'protest': 1, 'oproer': 1})",5,4,103,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+276,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",4,4,103,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+277,"OrderedCounter({'revolutie': 1, 'bevrijding': 1, 'verwoesting': 1, 'oproer': 1})",4,4,103,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+278,"OrderedCounter({'protest': 1, 'opstand': 1, 'verwoesting': 1, 'verzet': 1, 'staking': 1})",5,5,103,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+279,"OrderedCounter({'emancipatie': 1, 'opstand': 1, 'gelijkheid': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,103,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+280,"OrderedCounter({'bevrijding': 1, 'hulp': 1})",2,2,103,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+281,"OrderedCounter({'opstand': 2, 'onrust': 1, 'protest': 1, 'oproer': 1})",5,4,103,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+282,"OrderedCounter({'onrust': 1, 'protest': 1, 'verwoesting': 1, 'oproer': 1})",4,4,103,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+283,OrderedCounter({'onrust': 1}),1,1,103,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+284,OrderedCounter({'onrust': 1}),1,1,103,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+285,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",4,4,103,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+286,"OrderedCounter({'onrust': 1, 'verwoesting': 1, 'verzet': 1})",3,3,103,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+287,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",4,4,103,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+288,OrderedCounter({'opstand': 1}),1,1,103,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+289,OrderedCounter({'protest': 1}),1,1,103,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+290,"OrderedCounter({'emancipatie': 1, 'onrust': 1, 'gelijkheid': 1, 'onafhankelijkheid': 1})",4,4,103,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+291,OrderedCounter({'vandalisme': 1}),1,1,103,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+292,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'protest': 1, 'verwoesting': 1, 'oproer': 1})",5,5,103,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+293,OrderedCounter({'oproer': 1}),1,1,103,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+294,"OrderedCounter({'vrijheidsstrijd': 1, 'opstand': 1, 'onrust': 1, 'verwoesting': 1, 'verzet': 1})",5,5,103,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+295,OrderedCounter({'vandalisme': 1}),1,1,103,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+296,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,103,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+297,OrderedCounter({'onrust': 1}),1,1,103,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+298,"OrderedCounter({'vandalisme': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",3,3,103,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+299,OrderedCounter({'onrust': 1}),1,1,103,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+300,OrderedCounter({'revolutie': 1}),1,1,103,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+301,"OrderedCounter({'verwoesting': 1, 'oproer': 1, 'ongeloof bij de mensen': 1})",3,3,103,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+302,"OrderedCounter({'onrust': 1, 'protest': 1})",2,2,103,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+303,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,103,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+304,"OrderedCounter({'onrust': 1, 'verwoesting': 1})",2,2,103,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+305,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'onafhankelijkheid': 1})",5,5,103,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
+306,"OrderedCounter({'vrijheidsstrijd': 1, 'onrust': 1, 'rechtvaardigheid': 1, 'verwoesting': 1, 'verzet': 1})",5,5,104,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+307,"OrderedCounter({'vrijheidsstrijd': 1, 'bevrijding': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,104,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+308,"OrderedCounter({'revolutie': 1, 'onrust': 1, 'bevrijding': 1, 'opstand': 1, 'onafhankelijkheid': 1})",5,5,104,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+309,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'onrust': 1, 'verwoesting': 1, 'verzet': 1})",5,5,104,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+310,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'rechtvaardigheid': 1, 'verwoesting': 1, 'verzet': 1})",5,5,104,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+311,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1})",5,5,104,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+312,"OrderedCounter({'revolutie': 1, 'onrust': 1, 'protest': 1, 'verwoesting': 1, 'verzet': 1})",5,5,104,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+313,"OrderedCounter({'onrust': 1, 'opstand': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,104,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+314,"OrderedCounter({'emancipatie': 1, 'opstand': 1, 'gelijkheid': 1, 'vandalisme': 1, 'orde herstellen': 1})",5,5,104,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+315,"OrderedCounter({'onrust': 1, 'protest': 1, 'verzet': 1, 'oproer': 1, 'bemoeienis': 1})",5,5,104,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+316,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'onrust': 1, 'verzet': 1})",5,5,104,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+317,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'protest': 1, 'verzet': 1, 'oproer': 1})",5,5,104,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+318,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'onrust': 1, 'verzet': 1, 'oproer': 1})",5,5,104,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+319,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'verwoesting': 1, 'verzet': 1})",5,5,104,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+320,"OrderedCounter({'onrust': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1, 'staking': 1})",5,5,104,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+321,"OrderedCounter({'revolutie': 1, 'oproer': 1})",2,2,104,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+322,OrderedCounter({'onderdrukken': 1}),1,1,104,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+323,OrderedCounter({'verzet': 1}),1,1,104,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+324,OrderedCounter({'opstand': 1}),1,1,104,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+325,"OrderedCounter({'emancipatie': 1, 'protest': 1, 'verzet': 1})",3,3,104,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+326,OrderedCounter({'rechtvaardigheid': 1}),1,1,104,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+327,"OrderedCounter({'gelijkheid': 1, 'rechtvaardigheid': 1, 'verzet': 1, 'autoriteit': 1, 'oorlog': 1})",5,5,104,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+328,OrderedCounter({'vrijheidsstrijd': 1}),1,1,104,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+329,"OrderedCounter({'onrust': 1, 'verzet': 1})",2,2,104,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+330,OrderedCounter({'emancipatie': 1}),1,1,104,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+331,"OrderedCounter({'revolutie': 1, 'onrust': 1, 'protest': 1, 'verwoesting': 1, 'oproer': 1})",5,5,104,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+332,OrderedCounter({'onrust': 1}),1,1,104,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+333,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",3,3,104,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+334,OrderedCounter({'onrust': 1}),1,1,104,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+335,OrderedCounter({'onrust': 1}),1,1,104,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+336,OrderedCounter({'(te late) damage control': 1}),1,1,104,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+337,"OrderedCounter({'protest': 1, 'rechtvaardigheid': 1})",2,2,104,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+338,"OrderedCounter({'onrust': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1, 'staking': 1})",5,5,104,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+339,"OrderedCounter({'revolutie': 1, 'onrust': 1, 'protest': 1, 'verzet': 1, 'oproer': 1})",5,5,104,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+340,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'bevrijding': 1, 'verwoesting': 1})",5,5,104,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
+341,"OrderedCounter({'opstand': 1, 'onrust': 1, 'gelijkheid': 1, 'rechtvaardigheid': 1, 'verzet': 1})",5,5,105,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+342,"OrderedCounter({'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1, 'bevrijding': 1, 'verzet': 1})",5,5,105,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+343,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'gelijkheid': 1, 'protest': 1, 'bevrijding': 1})",5,5,105,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+344,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'onrust': 1, 'rechtvaardigheid': 1})",5,5,105,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+345,"OrderedCounter({'opstand': 2, 'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'onafhankelijkheid': 1, 'verzet': 1, 'staking': 1})",11,10,105,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+346,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'gelijkheid': 1, 'rechtvaardigheid': 1, 'staking': 1})",5,5,105,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+347,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'protest': 1, 'rechtvaardigheid': 1, 'opstand': 1})",5,5,105,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+348,"OrderedCounter({'opstand': 2, 'onrust': 1, 'protest': 1, 'verwoesting': 1})",5,4,105,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+349,"OrderedCounter({'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'verzet': 1})",5,5,105,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+350,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'saamhorigheid': 1})",6,6,105,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+351,"OrderedCounter({'gelijkheid': 1, 'bevrijding': 1, 'rechtvaardigheid': 1, 'onafhankelijkheid': 1, 'verzet': 1})",5,5,105,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+352,"OrderedCounter({'emancipatie': 1, 'opstand': 1, 'protest': 1, 'bevrijding': 1, 'onafhankelijkheid': 1})",5,5,105,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+353,"OrderedCounter({'emancipatie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1, 'rechtvaardigheid': 1})",5,5,105,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+354,"OrderedCounter({'emancipatie': 1, 'onrust': 1, 'protest': 1, 'rechtvaardigheid': 1, 'oproer': 1})",5,5,105,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+355,"OrderedCounter({'onrust': 1, 'gelijkheid': 1, 'verzet': 1, 'oproer': 1, 'eenheid': 1})",5,5,105,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+356,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'onrust': 1, 'oproer': 1})",5,5,105,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+357,"OrderedCounter({'revolutie': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verzet': 1})",5,5,105,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+358,"OrderedCounter({'emancipatie': 1, 'vrijheidsstrijd': 1, 'gelijkheid': 1})",3,3,105,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+359,OrderedCounter({'gelijkheid': 1}),1,1,105,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+360,"OrderedCounter({'emancipatie': 1, 'gelijkheid': 1, 'bevrijding': 1, 'rechtvaardigheid': 1, 'onafhankelijkheid': 1})",5,5,105,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+361,OrderedCounter({'opstand': 1}),1,1,105,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+362,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1, 'verwoesting': 1})",5,5,105,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+363,OrderedCounter({'protest': 1}),1,1,105,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+364,"OrderedCounter({'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'oproer': 1})",5,5,105,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+365,OrderedCounter({'gelijkheid': 1}),1,1,105,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+366,"OrderedCounter({'vrijheidsstrijd': 1, 'protest': 1, 'rechtvaardigheid': 1, 'staking': 1})",4,4,105,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+367,OrderedCounter({'staking': 1}),1,1,105,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+368,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verzet': 1})",5,5,105,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+369,"OrderedCounter({'gelijkheid': 1, 'protest': 1})",2,2,105,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+370,OrderedCounter({'rechtvaardigheid': 1}),1,1,105,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+371,"OrderedCounter({'vrijheidsstrijd': 1, 'protest': 1, 'verzet': 1})",3,3,105,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+372,"OrderedCounter({'protest': 1, 'rechtvaardigheid': 1})",2,2,105,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+373,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'gelijkheid': 1, 'verzet': 1})",5,5,105,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+374,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1})",4,4,105,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+375,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'onafhankelijkheid': 1})",5,5,105,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
+376,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,106,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+377,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,106,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+378,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,106,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+379,"OrderedCounter({'rechtvaardigheid': 1, 'verwoesting': 1, 'onafhankelijkheid': 1, 'verzet': 1, 'oproer': 1})",5,5,106,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+380,"OrderedCounter({'opstand': 2, 'revolutie': 1, 'vrijheidsstrijd': 1, 'gelijkheid': 1, 'protest': 1, 'bevrijding': 1, 'vandalisme': 1, 'rechtvaardigheid': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",12,11,106,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+381,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,106,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+382,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'gelijkheid': 1, 'verwoesting': 1, 'oproer': 1})",5,5,106,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+383,"OrderedCounter({'onrust': 1, 'protest': 1, 'opstand': 1, 'verwoesting': 1, 'verzet': 1})",5,5,106,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+384,"OrderedCounter({'emancipatie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1, 'verwoesting': 1})",5,5,106,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+385,"OrderedCounter({'vrijheidsstrijd': 1, 'onrust': 1, 'gelijkheid': 1, 'verwoesting': 1, 'oproer': 1})",5,5,106,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+386,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,106,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+387,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'onrust': 1, 'verwoesting': 1, 'onafhankelijkheid': 1})",5,5,106,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+388,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'onrust': 1, 'verwoesting': 1, 'oproer': 1})",5,5,106,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+389,"OrderedCounter({'emancipatie': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,106,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+390,"OrderedCounter({'onrust': 1, 'protest': 1, 'verzet': 1, 'oproer': 1, 'staking': 1})",5,5,106,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+391,"OrderedCounter({'revolutie': 1, 'onrust': 1, 'staking': 1})",3,3,106,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+392,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1})",4,4,106,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+393,"OrderedCounter({'onrust': 1, 'verwoesting': 1, 'oproer': 1})",3,3,106,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+394,OrderedCounter({'protest': 1}),1,1,106,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+395,"OrderedCounter({'emancipatie': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'onafhankelijkheid': 1})",5,5,106,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+396,OrderedCounter({'verwoesting': 1}),1,1,106,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+397,"OrderedCounter({'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'droevigheid': 1, 'verlies': 1})",5,5,106,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+398,OrderedCounter({'gelijkheid': 1}),1,1,106,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+399,"OrderedCounter({'onrust': 1, 'verwoesting': 1})",2,2,106,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+400,OrderedCounter({'vandalisme': 1}),1,1,106,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+401,"OrderedCounter({'onrust': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",3,3,106,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+402,OrderedCounter({'onrust': 1}),1,1,106,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+403,"OrderedCounter({'onrust': 1, 'heel triest': 1})",2,2,106,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+404,"OrderedCounter({'onrust': 1, 'verwoesting': 1})",2,2,106,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+405,"OrderedCounter({'gelijkheid': 1, 'protest': 1})",2,2,106,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+406,"OrderedCounter({'verwoesting': 1, 'oproer': 1, 'oneerlijkheid': 1})",3,3,106,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+407,"OrderedCounter({'onrust': 1, 'gelijkheid': 1})",2,2,106,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+408,"OrderedCounter({'onrust': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1, 'destructie': 1})",5,5,106,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+409,"OrderedCounter({'onrust': 1, 'verwoesting': 1})",2,2,106,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+410,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'onrust': 1})",5,5,106,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
+411,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1})",3,3,107,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+412,"OrderedCounter({'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",5,5,107,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+413,"OrderedCounter({'protest': 1, 'bevrijding': 1})",2,2,107,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+414,"OrderedCounter({'vrijheidsstrijd': 1, 'protest': 1, 'verwoesting': 1, 'onafhankelijkheid': 1, 'verzet': 1})",5,5,107,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+415,"OrderedCounter({'vrijheidsstrijd': 1, 'opstand': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,107,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+416,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'gelijkheid': 1, 'rechtvaardigheid': 1})",4,4,107,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+417,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1})",4,4,107,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+418,"OrderedCounter({'bevrijding': 1, 'opstand': 1, 'verwoesting': 1, 'verzet': 1, 'staking': 1})",5,5,107,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+419,"OrderedCounter({'emancipatie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1, 'protest': 1})",5,5,107,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+420,"OrderedCounter({'revolutie': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verzet': 1})",5,5,107,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+421,"OrderedCounter({'opstand': 2, 'onrust': 1, 'protest': 1, 'verzet': 1})",5,4,107,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+422,"OrderedCounter({'opstand': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1})",5,5,107,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+423,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'oproer': 1})",5,5,107,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+424,"OrderedCounter({'onrust': 1, 'protest': 1, 'rechtvaardigheid': 1, 'oproer': 1})",4,4,107,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+425,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,107,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+426,"OrderedCounter({'opstand': 1, 'protest': 1, 'oproer': 1})",3,3,107,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+427,"OrderedCounter({'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1})",5,5,107,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+428,"OrderedCounter({'emancipatie': 1, 'vrijheidsstrijd': 1, 'gelijkheid': 1, 'protest': 1})",4,4,107,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+429,OrderedCounter({'opstand': 1}),1,1,107,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+430,"OrderedCounter({'emancipatie': 1, 'gelijkheid': 1, 'bevrijding': 1, 'rechtvaardigheid': 1, 'onafhankelijkheid': 1})",5,5,107,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+431,OrderedCounter({'revolutie': 1}),1,1,107,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+432,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'onrust': 1, 'vandalisme': 1})",5,5,107,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+433,OrderedCounter({'opstand': 1}),1,1,107,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+434,"OrderedCounter({'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verzet': 1})",5,5,107,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+435,OrderedCounter({'bevrijding': 1}),1,1,107,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+436,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",4,4,107,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+437,OrderedCounter({'verwoesting': 1}),1,1,107,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+438,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'rechtvaardigheid': 1})",4,4,107,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+439,"OrderedCounter({'protest': 1, 'rechtvaardigheid': 1})",2,2,107,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+440,OrderedCounter({'gelijkheid': 1}),1,1,107,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+441,"OrderedCounter({'vrijheidsstrijd': 1, 'vandalisme': 1})",2,2,107,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+442,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",4,4,107,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+443,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",5,5,107,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+444,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1})",5,5,107,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+445,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'protest': 1})",5,5,107,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
+446,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",3,3,108,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+447,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,108,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+448,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,108,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+449,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'onrust': 1, 'onafhankelijkheid': 1})",5,5,108,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+450,"OrderedCounter({'protest': 1, 'vandalisme': 1, 'opstand': 1, 'verwoesting': 1, 'oproer': 1})",5,5,108,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+451,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",3,3,108,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+452,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'protest': 1, 'vandalisme': 1, 'opstand': 1})",5,5,108,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+453,"OrderedCounter({'onrust': 1, 'protest': 1, 'opstand': 1, 'verwoesting': 1, 'oproer': 1})",5,5,108,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+454,"OrderedCounter({'emancipatie': 1, 'protest': 1, 'vandalisme': 1, 'opstand': 1, 'verwoesting': 1})",5,5,108,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+455,"OrderedCounter({'vandalisme': 1, 'verwoesting': 1})",2,2,108,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+456,"OrderedCounter({'opstand': 1, 'onrust': 1, 'verwoesting': 1, 'oproer': 1})",4,4,108,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+457,"OrderedCounter({'opstand': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1, 'onafhankelijkheid': 1})",5,5,108,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+458,"OrderedCounter({'opstand': 1, 'protest': 1, 'vandalisme': 1, 'oproer': 1})",4,4,108,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+459,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",3,3,108,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+460,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",4,4,108,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+461,"OrderedCounter({'protest': 1, 'verwoesting': 1, 'verzet': 1, 'staking': 1})",4,4,108,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+462,"OrderedCounter({'onrust': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1})",4,4,108,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+463,"OrderedCounter({'verzet': 1, 'oproer': 1})",2,2,108,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+464,OrderedCounter({'opstand': 1}),1,1,108,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+465,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'protest': 1, 'vandalisme': 1, 'verzet': 1})",5,5,108,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+466,OrderedCounter({'vandalisme': 1}),1,1,108,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+467,"OrderedCounter({'revolutie': 1, 'gelijkheid': 1, 'rechtvaardigheid': 1, 'verwoesting': 1, 'staking': 1})",5,5,108,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+468,OrderedCounter({'protest': 1}),1,1,108,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+469,"OrderedCounter({'bevrijding': 1, 'vandalisme': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",4,4,108,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+470,OrderedCounter({'oproer': 1}),1,1,108,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+471,"OrderedCounter({'vandalisme': 1, 'verwoesting': 1})",2,2,108,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+472,OrderedCounter({'vandalisme': 1}),1,1,108,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+473,"OrderedCounter({'opstand': 1, 'protest': 1, 'vandalisme': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",5,5,108,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+474,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1})",3,3,108,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+475,OrderedCounter({'opstand': 1}),1,1,108,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+476,"OrderedCounter({'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",3,3,108,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+477,"OrderedCounter({'protest': 1, 'vandalisme': 1, 'oproer': 1})",3,3,108,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+478,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'verwoesting': 1, 'verzet': 1})",5,5,108,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+479,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1})",5,5,108,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+480,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'onrust': 1, 'gelijkheid': 1, 'rechtvaardigheid': 1})",5,5,108,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
+481,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",3,3,109,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+482,"OrderedCounter({'onrust': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1})",5,5,109,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+483,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,109,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+484,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'onrust': 1, 'gelijkheid': 1, 'protest': 1})",5,5,109,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+485,"OrderedCounter({'opstand': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,109,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+486,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,109,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+487,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'bevrijding': 1, 'verwoesting': 1, 'oproer': 1})",5,5,109,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+488,"OrderedCounter({'onrust': 1, 'opstand': 1, 'verwoesting': 1, 'verzet': 1, 'staking': 1})",5,5,109,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+489,"OrderedCounter({'emancipatie': 1, 'opstand': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,109,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+490,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,109,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+491,"OrderedCounter({'opstand': 2, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",5,4,109,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+492,"OrderedCounter({'protest': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,109,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+493,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,109,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+494,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,109,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+495,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",4,4,109,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+496,"OrderedCounter({'opstand': 1, 'onrust': 1, 'verwoesting': 1, 'woede ': 1})",4,4,109,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+497,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,109,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+498,"OrderedCounter({'verwoesting': 1, 'verzet': 1})",2,2,109,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+499,OrderedCounter({'opstand': 1}),1,1,109,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+500,"OrderedCounter({'revolutie': 1, 'opstand': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1, 'verzet': 1})",6,6,109,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+501,OrderedCounter({'vandalisme': 1}),1,1,109,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+502,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,109,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+503,OrderedCounter({'verwoesting': 1}),1,1,109,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+504,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1})",5,5,109,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+505,OrderedCounter({'protest': 1}),1,1,109,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+506,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'verwoesting': 1})",4,4,109,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+507,OrderedCounter({'vandalisme': 1}),1,1,109,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+508,"OrderedCounter({'onrust': 1, 'protest': 1, 'rechtvaardigheid': 1, 'verwoesting': 1})",4,4,109,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+509,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1})",3,3,109,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+510,OrderedCounter({'opstand': 1}),1,1,109,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+511,"OrderedCounter({'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",3,3,109,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+512,"OrderedCounter({'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'verwoesting': 1})",4,4,109,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+513,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1, 'boosheid': 1})",5,5,109,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+514,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1})",5,5,109,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+515,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'onrust': 1, 'protest': 1, 'bevrijding': 1})",5,5,109,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
+516,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1})",5,5,110,1,2023-09-06 16:02:20,2023-09-06 16:02:20,0,data/CrowdTruth_Results
+517,"OrderedCounter({'vrijheidsstrijd': 1, 'opstand': 1, 'bevrijding': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,110,2,2023-10-06 13:04:16,2023-10-06 13:04:16,0,data/CrowdTruth_Results
+518,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'rechtvaardigheid': 1})",4,4,110,3,2023-06-13 10:05:12,2023-06-13 10:05:12,0,data/CrowdTruth_Results
+519,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1, 'bevrijding': 1, 'verwoesting': 1})",5,5,110,4,2023-06-13 17:04:51,2023-06-13 17:04:51,0,data/CrowdTruth_Results
+520,"OrderedCounter({'opstand': 2, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",5,4,110,5,2023-06-20 13:11:22,2023-06-20 13:11:22,0,data/CrowdTruth_Results
+521,"OrderedCounter({'opstand': 1, 'protest': 1, 'vandalisme': 1, 'verwoesting': 1})",4,4,110,6,2023-06-20 13:50:30,2023-06-20 13:50:30,0,data/CrowdTruth_Results
+522,"OrderedCounter({'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'vandalisme': 1, 'verwoesting': 1})",5,5,110,7,2023-06-20 17:59:46,2023-06-20 17:59:46,0,data/CrowdTruth_Results
+523,"OrderedCounter({'onrust': 1, 'opstand': 1, 'verzet': 1, 'oproer': 1, 'staking': 1})",5,5,110,8,2023-06-20 18:38:16,2023-06-20 18:38:16,0,data/CrowdTruth_Results
+524,"OrderedCounter({'opstand': 1, 'vandalisme': 1, 'verwoesting': 1})",3,3,110,9,2023-06-21 09:14:03,2023-06-21 09:14:03,0,data/CrowdTruth_Results
+525,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'oproer': 1})",3,3,110,10,2023-06-21 12:14:43,2023-06-21 12:14:43,0,data/CrowdTruth_Results
+526,"OrderedCounter({'opstand': 2, 'onrust': 1, 'vandalisme': 1, 'oproer': 1})",5,4,110,11,2023-06-22 13:23:42,2023-06-22 13:23:42,0,data/CrowdTruth_Results
+527,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,110,12,2023-06-22 16:54:17,2023-06-22 16:54:17,0,data/CrowdTruth_Results
+528,"OrderedCounter({'vrijheidsstrijd': 1, 'onrust': 1, 'protest': 1, 'vandalisme': 1})",4,4,110,13,2023-06-23 10:43:50,2023-06-23 10:43:50,0,data/CrowdTruth_Results
+529,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'oproer': 1})",3,3,110,14,2023-06-23 10:50:44,2023-06-23 10:50:44,0,data/CrowdTruth_Results
+530,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'verzet': 1, 'oproer': 1})",5,5,110,15,2023-06-23 21:48:40,2023-06-23 21:48:40,0,data/CrowdTruth_Results
+531,"OrderedCounter({'revolutie': 1, 'verwoesting': 1, 'oproer': 1})",3,3,110,16,2023-06-25 19:43:49,2023-06-25 19:43:49,0,data/CrowdTruth_Results
+532,"OrderedCounter({'opstand': 1, 'onrust': 1, 'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",5,5,110,17,2023-06-26 16:24:30,2023-06-26 16:24:30,0,data/CrowdTruth_Results
+533,OrderedCounter({'vandalisme': 1}),1,1,110,18,2023-06-26 16:28:53,2023-06-26 16:28:53,0,data/CrowdTruth_Results
+534,OrderedCounter({'vandalisme': 1}),1,1,110,19,2023-06-26 16:28:54,2023-06-26 16:28:54,0,data/CrowdTruth_Results
+535,"OrderedCounter({'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'vandalisme': 1, 'onafhankelijkheid': 1})",5,5,110,20,2023-06-26 16:29:13,2023-06-26 16:29:13,0,data/CrowdTruth_Results
+536,OrderedCounter({'vandalisme': 1}),1,1,110,21,2023-06-26 16:43:31,2023-06-26 16:43:31,0,data/CrowdTruth_Results
+537,"OrderedCounter({'protest': 1, 'bevrijding': 1, 'vandalisme': 1, 'verwoesting': 1, 'vechtlust ': 1})",5,5,110,22,2023-06-26 17:54:48,2023-06-26 17:54:48,0,data/CrowdTruth_Results
+538,OrderedCounter({'verwoesting': 1}),1,1,110,23,2023-06-27 15:38:55,2023-06-27 15:38:55,0,data/CrowdTruth_Results
+539,"OrderedCounter({'vrijheidsstrijd': 1, 'onrust': 1, 'protest': 1, 'bevrijding': 1, 'verzet': 1})",5,5,110,24,2023-06-27 15:57:41,2023-06-27 15:57:41,0,data/CrowdTruth_Results
+540,OrderedCounter({'verwoesting': 1}),1,1,110,25,2023-06-27 16:32:11,2023-06-27 16:32:11,0,data/CrowdTruth_Results
+541,"OrderedCounter({'vandalisme': 1, 'verwoesting': 1})",2,2,110,26,2023-06-27 19:33:55,2023-06-27 19:33:55,0,data/CrowdTruth_Results
+542,OrderedCounter({'vandalisme': 1}),1,1,110,27,2023-06-27 19:36:23,2023-06-27 19:36:23,0,data/CrowdTruth_Results
+543,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verwoesting': 1})",3,3,110,28,2023-06-27 21:28:55,2023-06-27 21:28:55,0,data/CrowdTruth_Results
+544,"OrderedCounter({'opstand': 1, 'onrust': 1, 'protest': 1})",3,3,110,29,2023-06-27 22:37:23,2023-06-27 22:37:23,0,data/CrowdTruth_Results
+545,OrderedCounter({'onrust': 1}),1,1,110,30,2023-06-27 23:47:39,2023-06-27 23:47:39,0,data/CrowdTruth_Results
+546,"OrderedCounter({'vandalisme': 1, 'verwoesting': 1, 'oproer': 1})",3,3,110,31,2023-06-28 03:20:30,2023-06-28 03:20:30,0,data/CrowdTruth_Results
+547,"OrderedCounter({'emancipatie': 1, 'protest': 1, 'oproer': 1})",3,3,110,32,2023-06-28 04:39:00,2023-06-28 04:39:00,0,data/CrowdTruth_Results
+548,"OrderedCounter({'onrust': 1, 'vandalisme': 1, 'verzet': 1, 'oproer': 1, 'wanhoop': 1})",5,5,110,33,2023-06-28 19:24:07,2023-06-28 19:24:07,0,data/CrowdTruth_Results
+549,"OrderedCounter({'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1, 'protest': 1, 'bevrijding': 1})",5,5,110,34,2023-06-29 12:13:42,2023-06-29 12:13:42,0,data/CrowdTruth_Results
+550,"OrderedCounter({'emancipatie': 1, 'revolutie': 1, 'vrijheidsstrijd': 1, 'opstand': 1, 'gelijkheid': 1})",5,5,110,35,2023-06-30 03:19:07,2023-06-30 03:19:07,0,data/CrowdTruth_Results
